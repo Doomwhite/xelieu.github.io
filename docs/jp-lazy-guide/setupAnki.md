@@ -47,7 +47,7 @@
 
         ![JPMN Options](../img/jpmn-options.png){height=150 width=300}
 
-    - Edit and save the config below (open in notepad)
+    - Edit and replace with the config below (open in notepad)
 
         ??? examplecode "_jpmn-options config <small>(click here)</small>"
 

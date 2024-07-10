@@ -11,6 +11,12 @@ hide:
 
 ---
 
+### July
+
+**2024-07-10**
+
+- Updated some links and being more clear in a certain part of the guide
+
 ### June
 
 **2024-06-22**
