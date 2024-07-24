@@ -112,13 +112,12 @@ Yomitan on PC setup is done, why not check out how to use Yomitan on Android?
     2. Within `Anki`: either `Ctrl + Shift + A` or `Tools` > `Add-ons` > `Get Add-ons...` > `1045800357` > restart `Anki`
 
     3. Extract `local-yomitan-audio-collection` and paste the `user_files` folder to:
-    
-    - On `Add-ons window` > select the `Local Audio Server for Yomitan` > `View Files`
-    - Or `C:\Users\YourUser\AppData\Roaming\Anki2\addons21\1045800357`
+        - On `Add-ons window` > select the `Local Audio Server for Yomitan` > `View Files`
+        - Or `C:\Users\YourUser\AppData\Roaming\Anki2\addons21\1045800357`
 
     4. My `local-audio-yomitan` settings OR if you are not using my profile:
-    - Go to `Yomitan settings` > `Audio` > `Configure audio playback sources...` > `Add` > `Custom URL (JSON)`
-    - Paste `http://localhost:5050/?term={term}&reading={reading}` and make sure it's on the top
+        - Go to `Yomitan settings` > `Audio` > `Configure audio playback sources...` > `Add` > `Custom URL (JSON)`
+        - Paste `http://localhost:5050/?term={term}&reading={reading}` and make sure it's on the top
 
     5. Check if it's working:
     
