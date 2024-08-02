@@ -93,7 +93,7 @@ Choose between 2 options:
 
 3. Open `command prompt` by winkey/search > cmd
 
-4. Type `pip install git+https://github.com/kha-white/mokuro.git`
+4. Type `pip3 install mokuro`
     - Then just let it download/install for a few mins until it's done and you can type again
     - If `pip3 is not recognized...` then just uninstall > restart > install Python repeatedly (I know it's dumb but that's how)
 
