@@ -17,6 +17,8 @@ hide:
 
 - Put the instructions on how to setup Sentence Card in [Setup: Anki](setupAnki.md/#question-5-how-can-i-use-sentence-card) and [Setup: Yomitan](setupYomitanOnPC.md/#question-2-how-can-i-use-sentence-card)
 
+- Updated the [Setup: Anki](setupAnki.md) `FSRS` instruction and images
+
 - Added [Want to contribute?](wantToContribute.md)
 
 - Updated a bunch of internal links for easier writing in the future, if you found any broken links please report it to [Github: Issues](https://github.com/Xelieu/xelieu.github.io/issues) or [Discord: xelieu](https://www.discordapp.com/users/719459399168426054)
