@@ -224,9 +224,14 @@
 
 8. Go to your `Deck`'s option then copy the `settings` below
     - (Top left) `Tools` > `Preferences` and set the settings accordingly
-    - (Settings 3) Turn on `FSRS` put `Desired Retention` of `0.80`, then use `Optimize` and `Compute minimum recommended retention` to replace `Desired retention` every month
-        - `Tools` > `FSRS4Anki Helper` for more personalized options like `Load Balancer`
-        - Until `1000 reviews`, you can't generate your own parameters and you will be using the defaults
+    - (Settings 3) Turn on `FSRS`
+        - Put `Desired Retention` of `0.80`
+        - `Tools` > `FSRS4Anki Helper` > `Load Balance when rescheduling`
+    
+    - Until `1000 reviews`, you can't generate your own parameters and you will be using the defaults; after that:
+        - Use `Optimize` and `Compute minimum recommended retention` every month
+        - Replace the `Desired retention` after the computation
+        - (Optional) `Tools` > `FSRS4Anki Helper` > `Reschedule all Cards`
 
     === "Anki Preference Settings"
         ![Anki Preference Settings](../img/anki-preference-settings.png){height=300 width=600}
