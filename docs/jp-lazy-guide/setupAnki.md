@@ -342,7 +342,7 @@ You now have an Anki Template, next is Yomitan
 
     If you haven't yet, please setup [Yomitan](setupYomitanOnPC.md) first (The next guide after this)
 
-    ??? info "Okay, I've set it up! <small>(click here)</small>"
+    ??? info "Okay, I've already set it up! <small>(click here)</small>"
 
         In your `Yomitan settings` > `Anki` > `configure Anki card format...`
 
