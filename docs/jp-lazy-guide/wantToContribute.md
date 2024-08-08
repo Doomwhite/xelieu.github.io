@@ -24,10 +24,8 @@ Here is a list of ideas I still had no time to work on OR no device to test it o
 
 1. An actual script to install all the setup from top to bottom so users don't actually have to do a lot of manual stuff from this guide
 
-2. Anime JP sub guide
+2. Linux Setup
 
-3. Linux Setup
+3. Kindle Setup
 
-4. Kindle Setup
-
-5. Agent Setup
+4. Agent Setup
