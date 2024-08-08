@@ -137,3 +137,21 @@ Yomitan setup is done, next is ShareX for convenient Mining
 ??? question "Can I add, delete or modify a Yomitan dictionary of my choice? <small>(click here)</small>"
 
     - Yes, most dictionaries should be compatible with the JPMN format
+
+#### Question 2: How can I use sentence card?
+
+??? question "How can I use sentence card? <small>(click here)</small>"
+
+    In your `Yomitan settings` > `Anki` > `configure Anki card format...`
+
+    ![Sentence Card Instruction 1](../img/sentence-card-instruction-1.png){height=300 width=600}
+    
+    In `Terms` scroll down and find `IsSentenceCard` and put `1` then close the window
+
+    ![Sentence Card Instruction 2](../img/sentence-card-instruction-2.png){height=300 width=600}
+
+    Now apply it on every profile under `Editing Profile` and make sure `Monolingual`, `Bilingual`, `Android (LN & Manga)` and `Android (VN)` got their config changed
+
+    ![Yomitan Profile](../img/yomitan-profiles.png){align=left height=300 width=600}
+
+    DONE! You can now mine with sentence card
