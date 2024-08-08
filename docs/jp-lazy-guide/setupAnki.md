@@ -47,7 +47,7 @@
 
         ![JPMN Options](../img/jpmn-options.png){height=150 width=300}
 
-    - Edit and replace with the config below (open in notepad)
+    - Edit(using notepad) and replace with the config below
 
         ??? examplecode "_jpmn-options config <small>(click here)</small>"
 
@@ -224,7 +224,7 @@
 
 8. Go to your `Deck`'s option then copy the `settings` below
     - (Top left) `Tools` > `Preferences` and set the settings accordingly
-    - (Settings 3) Turn on `FSRS` with a minimum desired and SM2 retention of `0.80`, then use `Optimize FSRS Parameters` and `Compute Optimal Retention` every month
+    - (Settings 3) Turn on `FSRS` put `Desired Retention` of `0.80`, then use `Optimize` and `Compute minimum recommended retention` to replace `Desired retention` every month
         - `Tools` > `FSRS4Anki Helper` for more personalized options like `Load Balancer`
         - Until `1000 reviews`, you can't generate your own parameters and you will be using the defaults
 
