@@ -36,7 +36,7 @@
     ![Dictionary Import](../img/yomitan-dictionary-import.png){height=250 width=500}
 
 5. Then Scroll down, in `Backup` > `Import Settings` > `lazyxel-yomitan-settings` (from the extracted folder)
-    - If you are interested on installing [Yomitan Local Audio](https://xelieu.github.io/jp-lazy-guide/setupYomitanOnAndroid/#info-2-android-yomitan-local-audio) pick `lazyXel-local-audio`, otherwise `lazyXel-non-local-audio`
+    - If you are interested on installing [Yomitan Local Audio](setupYomitanOnAndroid.md/#info-2-android-yomitan-local-audio) pick `lazyXel-local-audio`, otherwise `lazyXel-non-local-audio`
     - `Import` NOT `Sanitize and Import`
     
         ![Yomitan Import](../img/yomitan-import.png){height=150 width=300}
@@ -49,7 +49,7 @@ Yomitan setup is done, next is ShareX for convenient Mining
 
 [Proceed to ShareX Setup](setupShareX.md){ .md-button .md-button }
 
-<small>If you have any problems check [FAQs](https://xelieu.github.io/jp-lazy-guide/setupYomitanOnAndroid/#faqs) or contact me on Discord: [xelieu](https://www.discordapp.com/users/719459399168426054)</small>
+<small>If you have any problems check [FAQs](setupYomitanOnAndroid.md/#faqs) or contact me on Discord: [xelieu](https://www.discordapp.com/users/719459399168426054)</small>
 
 ---
 
@@ -84,7 +84,7 @@ Yomitan setup is done, next is ShareX for convenient Mining
 
     Requirements:
     
-    - Make sure you have [PC Yomitan Local Audio](https://xelieu.github.io/jp-lazy-guide/setupyomitanOnPC/#info-2-yomitan-local-audio) setup
+    - Make sure you have [PC Yomitan Local Audio](setupYomitanOnPC.md/#info-2-yomitan-local-audio) setup
 
     - You have [Ankiconnect Android](https://github.com/KamWithK/AnkiconnectAndroid/releases/latest) installed
 

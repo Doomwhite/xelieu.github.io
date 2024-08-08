@@ -16,9 +16,9 @@
 
 Requirements:
 
-- Processed Manga from [Setup: Mokuro Manga](https://xelieu.github.io/jp-lazy-guide/setupMangaOnPC/#setup-mokuro-manga)
+- Processed Manga from [Setup: Mokuro Manga](setupMangaOnPC.md/#setup-mokuro-manga)
 
-- [Yomitan On Android](https://xelieu.github.io/jp-lazy-guide/setupYomitanOnAndroid/) already set-up
+- [Yomitan On Android](setupYomitanOnAndroid.md) already set-up
 
 - File compressor such as [7z](https://www.7-zip.org/)
 
@@ -70,7 +70,7 @@ You are now finally done in setting up Manga Mining in Android, how about checki
 
 [Proceed to Setup: Anime on PC Setup](setupAnimeOnPC.md){ .md-button .md-button }
 
-<small>If you have any problems check [FAQs](https://xelieu.github.io/jp-lazy-guide/setupMangaOnAndroid/#faqs) or contact me on Discord: [xelieu](https://www.discordapp.com/users/719459399168426054)</small>
+<small>If you have any problems check [FAQs](setupMangaOnAndroid.md/#faqs) or contact me on Discord: [xelieu](https://www.discordapp.com/users/719459399168426054)</small>
 
 ---
 

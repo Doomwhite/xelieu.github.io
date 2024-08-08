@@ -17,6 +17,10 @@ hide:
 
 - Put the instructions on how to setup Sentence Card in [Setup: Anki](setupAnki.md/#question-5-how-can-i-use-sentence-card) and [Setup: Yomitan](setupYomitanOnPC.md/#question-2-how-can-i-use-sentence-card)
 
+- Added [Want to contribute?](wantToContribute.md)
+
+- Updated a bunch of internal links for easier writing in the future, if you found any broken links please report it to [Github: Issues](https://github.com/Xelieu/xelieu.github.io/issues) or [Discord: xelieu](https://www.discordapp.com/users/719459399168426054)
+
 ### July
 
 **2024-07-10**
@@ -49,7 +53,7 @@ hide:
 
 **2024-02-26**
 
-- The [Setup: Anime on Android](https://xelieu.github.io/jp-lazy-guide/setupAnimeOnAndroid/) actually now works properly as the dev [fixed the issue](https://github.com/killergerbah/asbplayer/issues/249#issuecomment-1962753049)
+- The [Setup: Anime on Android](setupAnimeOnAndroid.md) actually now works properly as the dev [fixed the issue](https://github.com/killergerbah/asbplayer/issues/249#issuecomment-1962753049)
 
 **2024-02-24**
 
@@ -60,8 +64,8 @@ hide:
 - Anki:
 	- Updated the install process back to the `JPMN Manager` add-on method
 		- Existing users: delete `JPMN Manager with prereleases` on add-ons tab then install the new [JPMN Manager](https://ankiweb.net/shared/info/301910299)
-			- More detailed instructions [here](https://xelieu.github.io/jp-lazy-guide/updatingAnkiJPMNNote/)
-		- You also have the option to not do anything and the note will work just fine, alternatively I put the manual update method to [Archive](https://xelieu.github.io/jp-lazy-guide/updatingAnkiJPMNNoteOld/)
+			- More detailed instructions [here](updatingAnkiJPMNNote.md)
+		- You also have the option to not do anything and the note will work just fine, alternatively I put the manual update method to [Archive](updatingAnkiJPMNNoteOld.md)
 
 ---
 
@@ -105,7 +109,7 @@ hide:
 **2023-12-14**
 
 - Fixed a bug in JPMN note that prevents displaying hyperlinked [image] from a dictionary entry that is mined from Yomitan
-	- To update please refer to [Updating: Anki JPMN Note](https://xelieu.github.io/jp-lazy-guide/updatingAnkiJPMNNote/)
+	- To update please refer to [Updating: Anki JPMN Note](updatingAnkiJPMNNote.md)
 	- The bug was simply renaming Yomichan > Yomitan into the JPMN code and that everything should be okay now
 
 **2023-12-09**
@@ -129,14 +133,14 @@ hide:
 
 **2023-11-13**
 
-- Updated [Setup: Anki](https://xelieu.github.io/jp-lazy-guide/setupAnki/) because Aquafina is missing and we can't update using `JPMN Manager` anymore
-	- For existing users that installed before `2023-11-13`, go to: [Update: Anki JPMN Fork](https://xelieu.github.io/jp-lazy-guide/updatingAnkiJPMNNoteOld/)
-	- Archived [Setup: Anki (Old)](https://xelieu.github.io/jp-lazy-guide/setupAnkiOld/) in case we can re-use `JPMN Manager` in the future
+- Updated [Setup: Anki](setupAnki.md) because Aquafina is missing and we can't update using `JPMN Manager` anymore
+	- For existing users that installed before `2023-11-13`, go to: [Update: Anki JPMN Fork](updatingAnkiJPMNNoteOld.md)
+	- Archived [Setup: Anki (Old)](setupAnkiOld.md) in case we can re-use `JPMN Manager` in the future
 	- Updated Anki [addons](https://drive.google.com/drive/folders/1qdElBZ_1CCjyVuKCrxHegtGYludG0HVw?usp=sharing) and set `FSRS` as default
 
-- Updated [Mokuro Setup (Local Processing Method)](https://xelieu.github.io/jp-lazy-guide/setupMangaOnPC/#local-processing-method)
+- Updated [Mokuro Setup (Local Processing Method)](setupMangaOnPC.md/#local-processing-method)
 	- For existing users, simply paste this into cmd to update: `pip install git+https://github.com/ZXY101/mokuro.git@master`
-	- Updated Reading Processed Manga in both [PC](https://xelieu.github.io/jp-lazy-guide/setupMangaOnPC/#reading-processed-manga) and [Android](https://xelieu.github.io/jp-lazy-guide/setupMangaOnAndroid/#setting-up)
+	- Updated Reading Processed Manga in both [PC](setupMangaOnPC.md#reading-processed-manga) and [Android](setupMangaOnAndroid.md/#setting-up)
 
 ---
 
@@ -159,7 +163,7 @@ Yomichan: [LazyXel Yomichan Setup](https://drive.google.com/drive/folders/1s_PdQ
 
 **2023-07-17**
 
-- Added [Setup: Anime](https://xelieu.github.io/jp-lazy-guide/setupAnimeOnPC/)
+- Added [Setup: Anime](setupAnimeOnPC.md)
 
 - Added more info and fix broken links
 

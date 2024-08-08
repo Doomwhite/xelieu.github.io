@@ -13,7 +13,7 @@
 
 Requirements
 
-- [Yomitan on Android](https://xelieu.github.io/jp-lazy-guide/setupYomitanOnAndroid/) already set-up
+- [Yomitan on Android](setupYomitanOnAndroid.md) already set-up
 
 ---
 
@@ -39,7 +39,7 @@ Requirements
     ![Android Player Buttons](../img/android-player-buttons.png){height=400 width=800}
 
 5. You can now mine with `Yomitan` by hovering over the words on the subtitle
-    - See [Anime Mining Demo](https://xelieu.github.io/jp-lazy-guide/setupAnimeOnPC/#info-1-anime-mining-demo)
+    - See [Anime Mining Demo](setupAnimeOnPC.md/#info-1-anime-mining-demo)
     - Unfortunately, to get `Picture`, `screenshot` manually and upload it to your card details in `Ankidroid`
 
     ![Android Player Mining](../img/android-player-mining.png){height=400 width=800}
@@ -116,4 +116,4 @@ Wow! Setting up the Mining tools is finally done, how about checking Sub Guide?
 
 [Proceed to Sub Guide](subGuide.md){ .md-button .md-button }
 
-<small>If you have any problems check [FAQs](https://xelieu.github.io/jp-lazy-guide/setupAnimeOnAndroid/#faqs) or contact me on Discord: [xelieu](https://www.discordapp.com/users/719459399168426054)</small>
+<small>If you have any problems check [FAQs](setupAnimeOnAndroid.md/#faqs) or contact me on Discord: [xelieu](https://www.discordapp.com/users/719459399168426054)</small>

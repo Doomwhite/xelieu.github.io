@@ -4,7 +4,7 @@ hide:
 ---
 # Retention How-to
 
-If you are already using `FSRS`, no need to look at this guide except [Mining Pointers](https://xelieu.github.io/jp-lazy-guide/retentionHowTo/#mining) as `FSRS` algorithm will adjust the settings automatically for you
+If you are already using `FSRS`, no need to look at this guide except [Mining Pointers](retentionHowTo.md/#mining) as `FSRS` algorithm will adjust the settings automatically for you
 
 This guide is `entirely my opinion`
 

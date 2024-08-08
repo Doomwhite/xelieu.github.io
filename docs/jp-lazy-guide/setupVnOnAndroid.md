@@ -10,7 +10,7 @@
 
 For `PC`:
 
-- [Yomitan On PC](https://xelieu.github.io/jp-lazy-guide/setupYomitanOnPC/) already set-up
+- [Yomitan On PC](setupYomitanOnPC.md) already set-up
 
 - Running `Anki`, `Steam` and `Texthooker` page
 
@@ -101,7 +101,7 @@ You now mine VN on Android, why not check out Mining Light Novel on PC?
 
 [Proceed to LN on PC Setup](setupLnOnPC.md){ .md-button .md-button }
 
-<small>If you have any problems check [FAQs](https://xelieu.github.io/jp-lazy-guide/setupVnOnAndroid/#faqs) or contact me on Discord: [xelieu](https://www.discordapp.com/users/719459399168426054)</small>
+<small>If you have any problems check [FAQs](setupVnOnAndroid.md/#faqs) or contact me on Discord: [xelieu](https://www.discordapp.com/users/719459399168426054)</small>
 
 ---
 

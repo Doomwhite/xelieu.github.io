@@ -1,25 +1,25 @@
 # Setup: VN on PC
 
-- [Textractor](https://xelieu.github.io/jp-lazy-guide/setupVnOnPC/#textractor) is a tool used to extract `text` from `Visual Novels`
+- [Textractor](setupVnOnPC.md/#textractor) is a tool used to extract `text` from `Visual Novels`
 
-- [Clipboard Inserter](https://xelieu.github.io/jp-lazy-guide/setupVnOnPC/#clipboard-inserter) is used to copy and paste the text extracted by `Textractor` into a `Texthooker` page where you can use `Yomitan` to scan the words and mine it into `Anki`
+- [Clipboard Inserter](setupVnOnPC.md/#clipboard-inserter) is used to copy and paste the text extracted by `Textractor` into a `Texthooker` page where you can use `Yomitan` to scan the words and mine it into `Anki`
 
 ---
 
 Requirements:
 
-- [Yomitan On PC](https://xelieu.github.io/jp-lazy-guide/setupYomitanOnPC/) already set-up
+- [Yomitan On PC](setupYomitanOnPC.md) already set-up
 
-[Textractor](https://xelieu.github.io/jp-lazy-guide/setupVnOnPC/#setup-textractor)
+[Textractor](setupVnOnPC.md/#setup-textractor)
 
 - Download [Textractor 5.2.0](https://drive.google.com/drive/folders/1HPhYtqcNK66EvAjQnW3Y7jSUYEkwRAEw?usp=sharing) folder
     
     - Some versions are messed up so I recommend sticking to this
     
-    - (Optional) [VN Texthooker on Android](https://rentry.co/android-texthook); [Android Setup](https://xelieu.github.io/jp-lazy-guide/setupLnOnAndroid/) is required
+    - (Optional) [VN Texthooker on Android](https://rentry.co/android-texthook); [Android Setup](setupLnOnAndroid.md) is required
         - If you don't have 2nd monitor or want to full screen
 
-[Clipboard Inserter](https://xelieu.github.io/jp-lazy-guide/setupVnOnPC/#setup-clipboard-inserter)
+[Clipboard Inserter](setupVnOnPC.md/#setup-clipboard-inserter)
 
 - Download `Clipboard Inserter` from [Chrome/Edge](https://chrome.google.com/webstore/detail/clipboard-inserter/deahejllghicakhplliloeheabddjajm) or [Firefox](https://addons.mozilla.org/en-US/firefox/addon/lap-clipboard-inserter/)
 
@@ -63,7 +63,7 @@ Requirements:
         ![Textracting](../img/textracting.png){height=500 width=1000}
 
 4. On your `Visual Novel`, play it so it can generate the text from the game, after 1-2 dialogues, check back on your `Texthooker` and find a `suitable hooked text` from the drop-down menu
-    - Check [Extra Info and Tips](https://xelieu.github.io/jp-lazy-guide/setupVnOnPC/#extra-info-and-tips) if you have trouble finding the proper hook or the text is messy
+    - Check [Extra Info and Tips](setupVnOnPC.md/#extra-info-and-tips) if you have trouble finding the proper hook or the text is messy
 
 5. If it's working properly it should look like this:
 
@@ -72,7 +72,7 @@ Requirements:
 === "Visual Novel Sample"
     ![Visual Novel Sample](../img/visual-novel-sample.png){height=500 width=1000}
 
-It is now texthooking, proceed to [Clipboard Inserter](https://xelieu.github.io/jp-lazy-guide/setupVnOnPC/#clipboard-inserter) to be able to use the text from `Textractor` and use `Yomitan` on it
+It is now texthooking, proceed to [Clipboard Inserter](setupVnOnPC.md/#clipboard-inserter) to be able to use the text from `Textractor` and use `Yomitan` on it
 
 ---
 
@@ -107,7 +107,7 @@ Now that the Clipboard Inserter is working, let's proceed on knowing how to play
 
 [Proceed to VN on Android Setup](setupVnOnAndroid.md){ .md-button .md-button }
 
-<small>If you have any problems check [FAQs](https://xelieu.github.io/jp-lazy-guide/setupVnOnPC/#faqs) or contact me on Discord: [xelieu](https://www.discordapp.com/users/719459399168426054)</small>
+<small>If you have any problems check [FAQs](setupVnOnPC.md/#faqs) or contact me on Discord: [xelieu](https://www.discordapp.com/users/719459399168426054)</small>
 
 ---
 

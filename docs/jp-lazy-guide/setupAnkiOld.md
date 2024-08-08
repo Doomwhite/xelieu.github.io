@@ -13,9 +13,9 @@
     ---
 
     - Transferring from other Anki Format? 
-        - Check [Transfer Existing Notes](https://aquafina-water-bottle.github.io/jp-mining-note/importing/) or [Transfer Lazy Format to JPMN](https://xelieu.github.io/jp-lazy-guide/transferAnkiSetup/)
+        - Check [Transfer Existing Notes](https://aquafina-water-bottle.github.io/jp-mining-note/importing/) or [Transfer Lazy Format to JPMN](transferAnkiSetup.md)
     - Updating your existing JPMN Format?
-        - Go to [Updating: Anki JPMN Note](https://xelieu.github.io/jp-lazy-guide/updatingAnkiJPMNNoteOld/)
+        - Go to [Updating: Anki JPMN Note](updatingAnkiJPMNNoteOld.md)
 
     ---
 
@@ -279,7 +279,7 @@
 
     [Proceed to Yomitan Setup](setupYomitanOnPC.md){ .md-button .md-button }
 
-    <small>If you have any problems check [FAQs](https://xelieu.github.io/jp-lazy-guide/setupAnki/#faqs) or contact me on Discord: [xelieu](https://www.discordapp.com/users/719459399168426054)</small>
+    <small>If you have any problems check [FAQs](setupAnki.md/#faqs) or contact me on Discord: [xelieu](https://www.discordapp.com/users/719459399168426054)</small>
 
     ---
 
@@ -308,7 +308,7 @@
 
     ??? info "Retention How To <small>(click here)</small>"
 
-        If you found yourself having low retention, go to [Retention How-To](https://xelieu.github.io/jp-lazy-guide/retentionHowTo/) for anki settings suggestions and other tips
+        If you found yourself having low retention, go to [Retention How-To](retentionHowTo.md) for anki settings suggestions and other tips
 
     #### Tip 1: When Reviewing on Anki
 

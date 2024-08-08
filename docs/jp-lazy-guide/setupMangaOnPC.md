@@ -1,8 +1,8 @@
 # Setup: Manga on PC
 
-- [MangaOCR](https://xelieu.github.io/jp-lazy-guide/setupMangaOnPC/#setup-mangaocr) is a tool used to scan a `Japanese` text and return it to your clipboard which you can scan in `Yomitan`
+- [MangaOCR](setupMangaOnPC.md/#setup-mangaocr) is a tool used to scan a `Japanese` text and return it to your clipboard which you can scan in `Yomitan`
 
-- (Recommended) [Mokuro Manga](https://xelieu.github.io/jp-lazy-guide/setupMangaOnPC/#setup-mokuro-manga) is a setup that first processes the `manga` to be able to hover the words and scan them using `Yomitan`
+- (Recommended) [Mokuro Manga](setupMangaOnPC.md/#setup-mokuro-manga) is a setup that first processes the `manga` to be able to hover the words and scan them using `Yomitan`
 
 ---
 
@@ -12,7 +12,7 @@ Requirements
 
 - Install [CDisplayEx](https://www.cdisplayex.com/desktop/)
     - Manga Reader for `PC`
-- [Yomitan On PC](https://xelieu.github.io/jp-lazy-guide/setupYomitanOnPC/) and [ShareX](https://xelieu.github.io/jp-lazy-guide/setupShareX/) already set-up
+- [Yomitan On PC](setupYomitanOnPC.md) and [ShareX](setupShareX.md) already set-up
 
 ---
 
@@ -37,11 +37,11 @@ Requirements
 
 5. In `command prompt`, type `manga_ocr "\path\to\sharex\screenshot\folder"`(copy the `path` that YOU specified in step 4) to start the program, then just minimize the window
     - Typing `manga_ocr` by itself without a path also works; it will `scan` from everywhere
-    - If you want a `shortcut` program see: [Info 1](https://xelieu.github.io/jp-lazy-guide/setupMangaOnPC/#info-1-mangaocr-shortcut-program)
+    - If you want a `shortcut` program see: [Info 1](setupMangaOnPC.md/#info-1-mangaocr-shortcut-program)
 
 6. Capture anything using `Shift + Alt + Q` or whatever you set in `OCR (manga_ocr)` hotkey in `ShareX`
     - Make sure Yomitan Search window is opened
-    - If you want to `scan using mouse button`, see [Info 2](https://xelieu.github.io/jp-lazy-guide/setupMangaOnPC/#info-2-scan-using-mouse-button)
+    - If you want to `scan using mouse button`, see [Info 2](setupMangaOnPC.md/#info-2-scan-using-mouse-button)
 
 7. You can now start reading using MangaOCR
 
@@ -53,7 +53,7 @@ Requirements
     === "CDisplayEx Manga"
         ![Anki | Light](../img/cdisplay-manga.png){height=300 width=600}
 
-You might also want to check [Mokuro Manga](https://xelieu.github.io/jp-lazy-guide/setupMangaOnPC/#setup-mokuro-manga)
+You might also want to check [Mokuro Manga](setupMangaOnPC.md/#setup-mokuro-manga)
 
 ---
 
@@ -61,13 +61,13 @@ You might also want to check [Mokuro Manga](https://xelieu.github.io/jp-lazy-gui
 
 Choose between 2 options:
 
-- [Online Processing Method](https://xelieu.github.io/jp-lazy-guide/setupMangaOnPC/#online-processing-method): ~15mins per 200 manga pages; straightforward guide; doesn't support ZXY fork of mokuro
+- [Online Processing Method](setupMangaOnPC.md/#online-processing-method): ~15mins per 200 manga pages; straightforward guide; doesn't support ZXY fork of mokuro
 
-- [Local Processing Method](https://xelieu.github.io/jp-lazy-guide/setupMangaOnPC/#local-processing-method): If you have a `strong PC` this is better; you are also `a know-how`
+- [Local Processing Method](setupMangaOnPC.md/#local-processing-method): If you have a `strong PC` this is better; you are also `a know-how`
 
 !!! note "Android Mining"
 
-    To be able to mine in `Android` check: [Setup: Manga On Android](https://xelieu.github.io/jp-lazy-guide/setupMangaOnAndroid/)
+    To be able to mine in `Android` check: [Setup: Manga On Android](setupMangaOnAndroid.md)
 
 ---
 
@@ -75,7 +75,7 @@ Choose between 2 options:
 
 1. Follow this [Setup Guide](https://colab.research.google.com/drive/1zT4ubIPs3J93UJ0Di82A1ZimzXYULXNf?usp=sharing)
 
-2. Download the processed `Manga` folder and see [Reading Processed Manga](https://xelieu.github.io/jp-lazy-guide/setupMangaOnPC/#reading-processed-manga)
+2. Download the processed `Manga` folder and see [Reading Processed Manga](setupMangaOnPC.md/#reading-processed-manga)
 
 
 ---
@@ -116,7 +116,7 @@ Choose between 2 options:
     - All Manga volumes: Type `mokuro --parent_dir F:\Manga\Saenai` (Replace full directory, Saenai with your manga name)
         - Your vol1, 2, 3, etc. should be inside `Saenai folder` in ascending uniform named order
 
-7. See [Reading Processed Manga](https://xelieu.github.io/jp-lazy-guide/setupMangaOnPC/#reading-processed-manga)
+7. See [Reading Processed Manga](setupMangaOnPC.md/#reading-processed-manga)
 
 ---
 
@@ -170,7 +170,7 @@ You can now mine Manga on PC, see how it's done in Android!
 
 [Proceed to Manga on Android Setup](setupMangaOnAndroid.md){ .md-button .md-button }
 
-<small>If you have any problems check [FAQs](https://xelieu.github.io/jp-lazy-guide/setupMangaOnPC/#faqs) or contact me on Discord: [xelieu](https://www.discordapp.com/users/719459399168426054)</small>
+<small>If you have any problems check [FAQs](setupMangaOnPC.md/#faqs) or contact me on Discord: [xelieu](https://www.discordapp.com/users/719459399168426054)</small>
 
 ## Extra Info and Tips
 

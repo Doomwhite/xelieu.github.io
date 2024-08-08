@@ -12,7 +12,7 @@
 
 Requirements
 
-- [Yomitan On Android](https://xelieu.github.io/jp-lazy-guide/setupYomitanOnAndroid/) already set-up
+- [Yomitan On Android](setupYomitanOnAndroid.md) already set-up
 
 ---
 
@@ -22,7 +22,7 @@ Requirements
     - Open `Ankidroid` and leave it in the background
 
 2. Open your `Kiwi Browser` > `Yomitan Settings` > `Profile` > `Default` & `Editing` Profile > `Android (LN & Manga)`
-    - If you are not using my `Yomitan settings`, see [Info 2](https://xelieu.github.io/jp-lazy-guide/setupLnOnAndroid/#info-2-text-replacement-pattern)
+    - If you are not using my `Yomitan settings`, see [Info 2](setupLnOnAndroid.md/#info-2-text-replacement-pattern)
 
     ![Yomitan Profile Android](../img/yomitan-profile-android.png){height=250 width=500}
 
@@ -37,7 +37,7 @@ You can now read Light Novels in Android, why not check out the Manga setup?
 
 [Proceed to Manga on PC Setup](setupMangaOnPC.md){ .md-button .md-button }
 
-<small>If you have any problems check [FAQs](https://xelieu.github.io/jp-lazy-guide/setupLnOnAndroid/#faqs) or contact me on Discord: [xelieu](https://www.discordapp.com/users/719459399168426054)</small>
+<small>If you have any problems check [FAQs](setupLnOnAndroid.md/#faqs) or contact me on Discord: [xelieu](https://www.discordapp.com/users/719459399168426054)</small>
 
 ---
 
@@ -69,7 +69,7 @@ You can now read Light Novels in Android, why not check out the Manga setup?
 
     Requirements:
     
-    - Make sure you have [PC Yomitan Local Audio](https://xelieu.github.io/jp-lazy-guide/setupyomitanOnPC/#info-2-yomitan-local-audio) setup
+    - Make sure you have [PC Yomitan Local Audio](setupYomitanOnPC.md/#info-2-yomitan-local-audio) setup
 
     - You have [Ankiconnect Android](https://github.com/KamWithK/AnkiconnectAndroid/releases/latest) installed
 

@@ -13,7 +13,7 @@
 
 Requirements
 
-- [Yomitan on PC](https://xelieu.github.io/jp-lazy-guide/setupYomitanOnPC/) and [ShareX](https://xelieu.github.io/jp-lazy-guide/setupShareX/) already set-up
+- [Yomitan on PC](setupYomitanOnPC.md) and [ShareX](setupShareX.md) already set-up
 
 ---
 
@@ -34,15 +34,15 @@ Requirements
     === "Pick Anime and Sub"
         ![Pick Anime & Subtitle PC](../img/pick-anime-sub.png){height=300 width=600}
 
-4. You can now mine with `Yomitan` and [ShareX](https://xelieu.github.io/jp-lazy-guide/setupShareX/)'s `screenshot` and `audio recording` hotkeys
-    - See [Anime Mining Demo](https://xelieu.github.io/jp-lazy-guide/setupAnimeOnPC/#info-1-anime-mining-demo)
+4. You can now mine with `Yomitan` and [ShareX](setupShareX.md)'s `screenshot` and `audio recording` hotkeys
+    - See [Anime Mining Demo](setupAnimeOnPC.md/#info-1-anime-mining-demo)
 
 
 You can now mine Anime on PC, why not do it on Android too? (RIP eyes)
 
 [Proceed to Setup: Anime on Android Setup](setupAnimeOnAndroid.md){ .md-button .md-button }
 
-<small>If you have any problems check [FAQs](https://xelieu.github.io/jp-lazy-guide/setupAnimeOnPC/#faqs) or contact me on Discord: [xelieu](https://www.discordapp.com/users/719459399168426054)</small>
+<small>If you have any problems check [FAQs](setupAnimeOnPC.md/#faqs) or contact me on Discord: [xelieu](https://www.discordapp.com/users/719459399168426054)</small>
 
 ---
 
