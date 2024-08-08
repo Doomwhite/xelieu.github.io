@@ -11,6 +11,12 @@ hide:
 
 ---
 
+### August
+
+**2024-08-08**
+
+- Put the instructions on how to setup Sentence Card in [Setup: Anki](setupAnki.md/#question-5-how-can-i-use-sentence-card) and [Setup: Yomitan](setupYomitanOnPC.md/#question-2-how-can-i-use-sentence-card)
+
 ### July
 
 **2024-07-10**

@@ -329,3 +329,24 @@ You now have an Anki Template, next is Yomitan
 ??? question "Can I rename the deck? <small>(click here)</small>"
 
     - Technically yes, but I wouldn't recommend; you have to resetup Yomitan's `Anki Card Format` and Anki's Add-on `AutoReorder`
+
+#### Question 5: How can I use sentence card?
+
+
+??? question "How can I use sentence card? <small>(click here)</small>"
+
+    If you haven't yet, please setup [Yomitan](setupYomitanOnPC.md) first (The next guide after this)
+
+    ??? info "Okay, I've set it up! <small>(click here)</small>"
+
+        In your `Yomitan settings` > `Anki` > `configure Anki card format...`
+
+        ![Sentence Card Instruction 1](../img/sentence-card-instruction-1.png){height=300 width=600}
+        
+        In `Terms` scroll down and find `IsSentenceCard` and put `1` then close the window
+
+        ![Sentence Card Instruction 2](../img/sentence-card-instruction-2.png){height=300 width=600}
+
+        Now apply it on every profile under `Editing Profile` and make sure `Monolingual`, `Bilingual`, `Android (LN & Manga)` and `Android (VN)` got their config changed
+
+        ![Yomitan Profile](../img/yomitan-profiles.png){align=left height=300 width=600}
