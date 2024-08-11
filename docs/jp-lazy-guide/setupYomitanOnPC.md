@@ -158,5 +158,3 @@ Yomitan on PC setup is done, why not check out how to use Yomitan on Android?
     Now apply it on every profile under `Editing Profile` and make sure `Monolingual`, `Bilingual`, `Android (LN & Manga)` and `Android (VN)` got their config changed
 
     ![Yomitan Profile](../img/yomitan-profiles.png){align=left height=300 width=600}
-
-    DONE! You can now mine with sentence card
