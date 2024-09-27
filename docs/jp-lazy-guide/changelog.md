@@ -11,6 +11,14 @@ hide:
 
 ---
 
+### September
+
+**2024-07-27**
+
+- Yomitan:
+	- Updated [yomitan settings](https://drive.google.com/drive/folders/1s_PdQ9HWvpDFXkh_AGGzVgqrFBGhUsbI?usp=sharing) handlebar from `v.1.0.12` to `v1.0.14`
+
+
 ### August
 
 **2024-08-08**
