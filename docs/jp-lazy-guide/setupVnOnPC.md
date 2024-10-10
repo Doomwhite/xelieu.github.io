@@ -12,7 +12,7 @@ Requirements:
 
 [Textractor](setupVnOnPC.md/#setup-textractor)
 
-- Download [Textractor 5.2.0](https://drive.google.com/drive/folders/1oHdD3DL8BqAxEEvUoSK-ow8snK6_Qn6y?usp=sharing) and extract the folder
+- Download [Textractor 5.2.0](https://drive.google.com/drive/folders/1oHdD3DL8BqAxEEvUoSK-ow8snK6_Qn6y?usp=sharing) and extract the folder with the password `lazyguide` (lowercase; no space)
     
     - Some versions are messed up so I recommend sticking to this
     
