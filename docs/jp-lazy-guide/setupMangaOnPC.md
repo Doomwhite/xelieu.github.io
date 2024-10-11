@@ -61,7 +61,7 @@ You might also want to check [Mokuro Manga](setupMangaOnPC.md/#setup-mokuro-mang
 
 Choose between 2 options:
 
-- [Online Processing Method](setupMangaOnPC.md/#online-processing-method): ~15mins per 200 manga pages; straightforward guide; doesn't support ZXY fork of mokuro
+- [Online Processing Method](setupMangaOnPC.md/#online-processing-method): ~15mins per 200 manga pages; straightforward guide
 
 - [Local Processing Method](setupMangaOnPC.md/#local-processing-method): If you have a `strong PC` this is better; you are also `a know-how`
 
